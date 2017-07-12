@@ -4,5 +4,5 @@
   "description": "Combined projects for api/spa",
   "scripts": {
     "postinstall": "git clone https://github.com/TW1LL/wcubed-spa.git wcubed-spa2 && git clone https://github.com/TW1LL/wcubed-api.git wcubed-api2"
-  },
+  }
 }
