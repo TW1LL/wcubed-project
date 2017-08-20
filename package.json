@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Combined projects for api/spa",
   "scripts": {
-    "postinstall": "git clone https://github.com/TW1LL/wcubed-spa.git wcubed-spa2 && git clone https://github.com/TW1LL/wcubed-api.git wcubed-api2"
+    "postinstall": "git clone https://github.com/TW1LL/wcubed-spa.git wcubed-spa && git clone https://github.com/TW1LL/wcubed-api.git wcubed-api"
   }
 }
